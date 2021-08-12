@@ -1,3 +1,6 @@
+# .NET 5 Download 
+https://dotnet.microsoft.com/download/dotnet/5.0
+
 # Zombie Survivor Kata
 
 Source: [https://github.com/ardalis/kata-catalog](https://github.com/ardalis/kata-catalog)
